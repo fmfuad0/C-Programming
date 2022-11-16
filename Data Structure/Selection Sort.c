@@ -1,5 +1,5 @@
 
-///Selection Sort
+///Selection Sort {For 10 elements}
 #include <stdio.h>
 #include <stdlib.h>
 
